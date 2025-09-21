@@ -1,0 +1,9 @@
+﻿模型/框架,技術類型,核心創新,成功率 (%),內容品質 (1-5),設計品質 (1-5),連貫性 (1-5),多模態支援,實時編輯
+PPTAgent (2025),Edit-based Agent,兩階段編輯範式 + PPTEval評估,97.8,3.28,3.27,4.48,✓ (圖像理解+生成),✓
+PreGenie (2025),Agentic MLLM,Slidev框架 + 迭代視覺檢查,95.0,3.45,3.6,3.8,✓ (多模態輸入),✓
+Talk-to-Your-Slides (2025),Direct PowerPoint Integration,COM通訊直接操作PowerPoint,92.0,3.2,3.4,3.65,✓ (PowerPoint對象),✓
+PASS (2025),Document-to-Slides Pipeline,語音合成整合 + 通用文檔支援,88.5,3.15,3.25,3.55,✓ (文檔+圖像),✗
+Multi-Staged LLM-VLM (2024),Multi-staged End-to-End,LLM+VLM組合多階段處理,85.2,3.24,3.3,3.36,✓ (LLM+VLM),✗
+AutoPresent (2024),Layout-aware Code Synthesis,預定義操作API,88.0,2.98,2.33,3.24,✗ (純文字),✓
+Bandyopadhyay et al. (2024),Multi-modal Approach,敘事結構重視,82.3,3.1,3.05,3.4,✓ (文字+圖像),✗
+Baseline GPT-4o,Direct LLM Generation,端到端文字生成,10.0,2.98,2.33,3.24,✗ (純文字),✗
